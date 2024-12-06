@@ -8,10 +8,6 @@
 
 - ⚡ Fun fact **I sometimes use Vim**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 style="text-align: left;">Languages and Tools:</h3>
 
 <!-- Programming Languages -->
