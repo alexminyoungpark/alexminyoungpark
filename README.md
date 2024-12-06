@@ -8,40 +8,11 @@
 
 - ⚡ Fun fact **I sometimes use Vim**
 
-<h3 style="text-align: left; font-size: 24px; font-weight: bold; color: #333;">Languages and Tools:</h3>
-<!-- Programming Languages -->
-<p style="text-align: left; font-size: 18px; color: #555;">
-  <strong style="color: #222;">Programming Languages:</strong><br>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">💻</i>C</a> |
-  <a href="https://www.perl.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🐪</i>Perl</a> |
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🐍</i>Python</a>
-</p>
-<!-- Tools & Frameworks -->
-<p style="text-align: left; font-size: 18px; color: #555;">
-  <strong style="color: #222;">Tools & Frameworks:</strong><br>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🐳</i>Docker</a> |
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🎨</i>Figma</a> |
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🔍</i>OpenCV</a> |
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">⚡</i>PyTorch</a> |
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🧠</i>TensorFlow</a> |
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">📊</i>MATLAB</a> |
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">📈</i>Scikit-learn</a> |
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🌊</i>Seaborn</a> |
-  <a href="https://albumentations.ai/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🌱</i>Albumentations</a> |
-  <a href="https://mmdetection.readthedocs.io/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🔍</i>MMDetection</a> |
-  <a href="https://ultralytics.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🚀</i>Ultralytics</a>
-</p>
+Programming Languages:
+💻 C | 🐪 Perl | 🐍 Python
+AI/ML Frameworks:
+⚡ PyTorch | 🧠 TensorFlow | 🌱 Albumentations | 🔍 MMDetection | 🚀 Ultralytics
+Data Science:
+📊 MATLAB | 📈 Scikit-learn | 🌊 Seaborn
+Development Tools:
+🐳 Docker | 🎨 Figma | 🔍 OpenCV
