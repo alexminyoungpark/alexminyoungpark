@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minyoung Park</h1>
-<h3 align="center">모델을 엣지 디바이스에 임베딩하는 것에 관심이 많고, 에러가 뜨지 않는 오류를 디버깅하는 능력이 뛰어납니다. 해외 인턴십, 학부 연구생 등의 경험을 토대로 딥 러닝에 대해 전반적으로 높은 이해도를 갖고 있으며, 객체 탐지 모델을 성능 손실 없이 경량화하여 NPU에서 구동시킨 경험이 있습니다. 학부연구생으로 연구실에서 hand-object interaction 관련 논문에 참여하며 guitar fret keypoint detection에 딥 러닝을 적용해본 경험이 있습니다.</h3>
+<h3 align="center"></h3>
+<h4 align="left">모델을 엣지 디바이스에 임베딩하는 것에 관심이 많고, 에러가 뜨지 않는 오류를 디버깅하는 능력이 뛰어납니다. 해외 인턴십, 학부 연구생 등의 경험을 토대로 딥 러닝에 대해 전반적으로 높은 이해도를 갖고 있으며, 객체 탐지 모델을 성능 손실 없이 경량화하여 NPU에서 구동시킨 경험이 있습니다. 학부연구생으로 연구실에서 hand-object interaction 관련 논문에 참여하며 guitar fret keypoint detection에 딥 러닝을 적용해본 경험이 있습니다.</h4>
 
 - 🌱 I’m currently learning **Computer vision**
 
