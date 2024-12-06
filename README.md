@@ -9,7 +9,6 @@
 - ⚡ Fun fact **I sometimes use Vim**
 
 <h3 style="text-align: left; font-size: 24px; font-weight: bold; color: #333;">Languages and Tools:</h3>
-
 <!-- Programming Languages -->
 <p style="text-align: left; font-size: 18px; color: #555;">
   <strong style="color: #222;">Programming Languages:</strong><br>
@@ -20,7 +19,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
     <i style="margin-right: 8px;">🐍</i>Python</a>
 </p>
-
 <!-- Tools & Frameworks -->
 <p style="text-align: left; font-size: 18px; color: #555;">
   <strong style="color: #222;">Tools & Frameworks:</strong><br>
@@ -39,5 +37,11 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
     <i style="margin-right: 8px;">📈</i>Scikit-learn</a> |
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
-    <i style="margin-right: 8px;">🌊</i>Seaborn</a>
+    <i style="margin-right: 8px;">🌊</i>Seaborn</a> |
+  <a href="https://albumentations.ai/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
+    <i style="margin-right: 8px;">🌱</i>Albumentations</a> |
+  <a href="https://mmdetection.readthedocs.io/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
+    <i style="margin-right: 8px;">🔍</i>MMDetection</a> |
+  <a href="https://ultralytics.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #007bff; font-weight: 500;">
+    <i style="margin-right: 8px;">🚀</i>Ultralytics</a>
 </p>
