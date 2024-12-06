@@ -53,28 +53,4 @@
   </a>
 </p>
 
-<!-- Version Control -->
-<p style="text-align: left;">
-  <strong>Version Control:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  </a>
-</p>
-
-<!-- Operating Systems -->
-<p style="text-align: left;">
-  <strong>Operating Systems:</strong><br>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  </a>
-</p>
-
-<!-- Others -->
-<p style="text-align: left;">
-  <strong>Others:</strong><br>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
-  </a>
-</p>
-
 
