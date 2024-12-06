@@ -10,9 +10,9 @@
 
 **Programming Languages**:
 💻 C | 🐪 Perl | 🐍 Python  
+
 **AI/ML Frameworks**:
 ⚡ PyTorch | 🧠 TensorFlow | 🌱 Albumentations | 🔍 MMDetection | 🚀 Ultralytics | 🤗 Hugging Face  
+
 **Data Science**:
-📊 MATLAB | 📈 Scikit-learn | 🌊 Seaborn  
-Development Tools:
-🐳 Docker | 🎨 Figma | 🔍 OpenCV
+📊 MATLAB | 📈 Scikit-learn | 🌊 Seaborn | 🔍 OpenCV  
